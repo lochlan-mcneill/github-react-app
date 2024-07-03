@@ -5,7 +5,8 @@ function App() {
 
   return (
     <>
-      <p>This is my first React App on Github!</p>
+      <h1>Welcome to my first React App on Github!</h1>
+      <p>I made this to learn how to upload react projects to Github.</p>
     </>
   )
 }
